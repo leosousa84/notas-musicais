@@ -9,6 +9,17 @@ readme = "README.md"
 python = "^3.10"
 
 
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.4"
+blue = "^0.9.1"
+isort = "^5.13.2"
+
+
+[tool.poetry.group.doc.dependencies]
+mkdocs-material = "^9.5.4"
+mkdocstrings = "^0.24.0"
+mkdocstrings-python = "^1.8.0"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
