@@ -1,1 +1,2 @@
-![logo do projeto](assets/logo.jpeg){ width="500" .center }
+![logo do projeto](assets/notas.png){ width="300" .center }
+# Notas Musicais
